@@ -3,4 +3,7 @@
     git init
     git status
     git log
-    git adds
+    git add
+    git diff
+    git push
+    
