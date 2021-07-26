@@ -1,2 +1,6 @@
 # memo-git
-memo de git &amp; github
+
+    git init
+    git status
+    git log
+    git adds
