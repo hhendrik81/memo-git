@@ -20,3 +20,9 @@
 
 **git push**  
 *envoie les commits local vers GitHub*
+
+**git pull**
+*récupère le suivi et les changements du dépot*
+
+**git checkout**
+*bascule sur la branche nommée*
